@@ -36,6 +36,8 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 
+docker-compose.yml
+
 # .NET app settings
 appsettings.*.json
 creds.*.json
