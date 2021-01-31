@@ -42,3 +42,4 @@ docker-compose.yml
 appsettings.*.json
 creds.*.json
 launchSettings.json
+*.password.txt
